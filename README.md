@@ -29,12 +29,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlescholar.svg" />
 </a> 
 
-<a href="https://medium.com/@kushalchauhan">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
-</a> 
-
 </div>
 
 <br>
 
-#### I'm a Pre-Doctoral Researcher at Google Research
+#### I'm a Research Software Engineer at Google Research
